@@ -35,26 +35,31 @@ Result: 862 raw rows → **831 clean rows**.
 ## Excel Analysis
 Data audit, formula-based calculated columns, and pivot-style analysis with charts.
 
-![Excel Analysis](screenshots/excel_analysis.png)
+<img width="1917" height="1018" alt="excel_analysis" src="https://github.com/user-attachments/assets/1a657200-a0f6-4340-b64e-22f324c35e73" />
+
 
 ## SQL Analysis
 13 queries in `sql/RetailPulse_Queries.sql` (10 core + 3 advanced using CTE, CASE, subqueries).
 
-![SQL Results](screenshots/sql_results.png)
+<img width="1262" height="931" alt="sql_results" src="https://github.com/user-attachments/assets/2d3d900e-2f2a-4cfa-9b95-232ec50c30bd" />
+
 *Advanced query: high-revenue products with below-average profit margin.*
 
 ## Power BI Dashboard
 **Page 1 - Executive Overview**
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+<img width="1916" height="970" alt="dashboard_overview" src="https://github.com/user-attachments/assets/5e56646e-3523-4a80-9908-ec10f907f932" />
+
 
 **Page 2 - Sales & Product Analytics**
 
-![Dashboard Products](screenshots/dashboard_products.png)
+<img width="1917" height="975" alt="dashboard_products" src="https://github.com/user-attachments/assets/7eb1a854-f1df-48e2-8a66-d740519dda62" />
+
 
 **Page 3 - Business Insights**
 
-![Insights Page](screenshots/insights_page.png)
+<img width="1917" height="978" alt="insights_page" src="https://github.com/user-attachments/assets/c28ae1ba-89ff-4897-a942-08f257f7f00f" />
+
 
 ## Key Insights
 1. Total revenue ₹1.14 Cr, profit ₹45.67 L, overall margin ~40%.
